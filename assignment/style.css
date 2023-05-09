@@ -1,4 +1,27 @@
-/* Give your page a fun background color */
+html{
+    background-color: crimson;
+}
+header{
+    color: gold;
+}
+footer{
+    color: gold;
+}
+h1{
+    align-self: center;
+}
+p{
+    color: bisque;
+}
+p{font-style: italic;
+}
+img{
+    border: 5px;
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+    /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
 
