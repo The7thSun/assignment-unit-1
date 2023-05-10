@@ -1,1 +1,1 @@
-console.log('hello prime!');
+console.log('hello prime! I hate safari');
