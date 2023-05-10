@@ -1,26 +1,41 @@
 html{
     background-color: crimson;
 }
+
 header{
     color: gold;
 }
+
 footer{
+
     color: gold;
 }
+
 h1{
     align-self: center;
 }
 p{
     color: bisque;
 }
-p{font-style: italic;
+p{
+    font-style: italic;
 }
-img{
-    border: 5px;
-}
+
 ul{
     font-family: 'Courier New', Courier, monospace;
 }
+
+img{
+    width: 30%;
+    margin-left: 10%;
+    border-style: double;
+    border-color: gold;
+    border-width: 10px;
+}
+
+body{
+}
+
     /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
